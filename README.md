@@ -1,3 +1,5 @@
+[Medium](https://medium.com/swlh/how-to-prototype-a-cli-using-commanderjs-and-inquirerjs-in-less-than-3-hours-6d5f0d1b9725)
+
 This is a starter template for anyone who wants to try out CommanderJS and InquirerJS.
 
 When you clone this project, install this globally.
